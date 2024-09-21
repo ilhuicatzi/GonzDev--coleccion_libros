@@ -33,7 +33,7 @@ const books = await getCollection("books");
               const { titulo, autor, imagen, descripcion } = data;
 
               return (
-                <article class="flex flex-col min-[400px]:flex-row p-1">
+                <article class="flex flex-col min-[400px]:flex-row p-3 shadow-md hover:shadow-gray-900 hover:bg-gray-900/15 rounded-lg ease-in-out transition duration-300">
                   <a
                     href={`/libro/${slug}`}
                     class="mb-2 min-[400px]:mr-5 xl:mb-0 transition hover:scale-110 flex justify-center items-center"
