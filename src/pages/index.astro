@@ -16,7 +16,7 @@ const books = await getCollection("books");
         Mi colección de Libros
       </h1>
       <div class="flex flex-col items-center">
-        <p>
+        <p class="text-center">
           Te presento mis libros favoritos que han marcado mi vida y mi carrera
           profesional.
         </p>
@@ -33,10 +33,10 @@ const books = await getCollection("books");
               const { titulo, autor, imagen, descripcion } = data;
 
               return (
-                <article class="flex p-1">
+                <article class="flex flex-col min-[400px]:flex-row p-1">
                   <a
                     href={`/libro/${slug}`}
-                    class="mb-2 mr-5 xl:mb-0 transition hover:scale-110 flex justify-center items-center"
+                    class="mb-2 min-[400px]:mr-5 xl:mb-0 transition hover:scale-110 flex justify-center items-center"
                   >
                     <img
                     transition:name={slug}
@@ -45,8 +45,8 @@ const books = await getCollection("books");
                       class="w-28 h-36 rounded-lg"
                     />
                   </a>
-                  <div class="flex flex-col justify-center flex-1">
-                    <h2 class="text-xl font-semibold">{titulo}</h2>
+                  <div class="flex flex-col justify-center flex-1 text-center min-[400px]:text-start">
+                    <h2 transition:name={`title-${slug}`} class="text-xl font-semibold">{titulo}</h2>
                     <p class="text-sm text-gray-500 mb-3">{autor}</p>
                     <p class="mt-2 text-gray-300">{descripcion}</p>
                   </div>
