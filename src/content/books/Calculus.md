@@ -3,8 +3,8 @@ titulo: Calculus
 autor: Spivak, Michael
 area: Matemáticas
 editorial: Reverte
-imagen: /images/calculus.jpg
-descripcion: Este libro es una introducción rigurosa a la teoría del cálculo, con un enfoque en la comprensión de los conceptos y la resolución de problemas. Es un libro muy completo y riguroso, pero también muy accesible y ameno.
+imagen: /images/calculus.jpeg
+descripcion: Introducción rigurosa a la teoría del cálculo.
 download_url: https://drive.google.com/file/d/1_m5xx3J9JOS70DwHSNx-rWmiWE_hAQdy/view?usp=sharing
 ---
 

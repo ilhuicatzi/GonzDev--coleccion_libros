@@ -3,8 +3,8 @@ titulo: Calculo de una variable
 autor: Stewart, James
 area: Matemáticas
 editorial: Cengage Learning
-imagen: /images/calculo_de_una_variable.jpg
-descripcion: Este libro es una introducción rigurosa a la teoría del cálculo de una variable, con un enfoque en la comprensión de los conceptos y la resolución de problemas. Es un libro muy completo y riguroso, pero también muy accesible y ameno.
+imagen: /images/calculo_de_una_variable.webp
+descripcion: Introductorio al cálculo de una variable, con varios ejemplos y ejercicios.
 download_url: https://drive.google.com/file/d/1DwK52v502N1GdNLIaioyHWoozejBsFy_/view?usp=sharing
 ---
 

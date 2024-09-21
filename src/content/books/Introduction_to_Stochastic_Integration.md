@@ -4,7 +4,7 @@ autor: Kuo, Hui-Hsiung
 area: Matemáticas
 editorial: Springer
 imagen: /images/introduction_to_stochastic_integration.jpg
-descripcion: Este libro es una introducción rigurosa a la teoría de la integración estocástica, con un enfoque en la comprensión de los conceptos y la resolución de problemas. Es un libro muy completo y riguroso, pero también muy accesible y ameno.
+descripcion: Introducción rigurosa a la teoría de la integración estocástica.
 download_url: https://drive.google.com/file/d/0BzbtntGwiIL3VS1uY2gtVHhTek0/view?usp=sharing&resourcekey=0-mo1uMXgM-GQ4-74GSexuaQ
 ---
 

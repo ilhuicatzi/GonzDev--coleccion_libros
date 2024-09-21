@@ -4,7 +4,7 @@ autor: Wackerly, Dennis
 area: Estadística
 editorial: Cengage Learning
 imagen: /images/estadistica_matematica.jpg
-descripcion: Este libro es una introducción rigurosa a la teoría de la estadística matemática, con un enfoque en la comprensión de los conceptos y la resolución de problemas. Es un libro muy completo y riguroso, pero también muy accesible y ameno.
+descripcion: Libro de estadística y probabilidad con ejercicios y aplicaciones.
 download_url: https://drive.google.com/file/d/0BzbtntGwiIL3WjRuQmk1TkJNREU/view?usp=sharing&resourcekey=0-vuxy5MCah_8HufLPSvquiw
 ---
 
